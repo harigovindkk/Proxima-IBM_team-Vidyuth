@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156424378104",
+    "project_id": "proxima-ibm",
+    "storage_bucket": "proxima-ibm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156424378104:android:ecb9ec7ed45bb328790d0d",
+        "android_client_info": {
+          "package_name": "com.vidyuth.proxima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156424378104-g672mjkmrh8qol1kcpgbirjk51ebv38e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLTOsusg2KbG9GF4gyxO1G7w9AKRqCRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156424378104-g672mjkmrh8qol1kcpgbirjk51ebv38e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

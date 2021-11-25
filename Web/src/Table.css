@@ -1,0 +1,12 @@
+.wrapper-image{
+    width: 50px !important;
+    height:50px !important;
+}
+td{
+    vertical-align: middle;
+}
+.editbut :hover,.deletebut :hover{
+    cursor: pointer;
+    font-weight: bolder;
+    color: red;
+}
